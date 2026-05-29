@@ -6,7 +6,7 @@
 
 コンビニでのアルバイト経験から、商品の場所や在庫状況を簡単に確認できるシステムとして開発しました。
 
----
+
 
 ## 📖 Overview
 
@@ -41,7 +41,7 @@ StoreLinkは、Java Servlet・JSP・MariaDBを利用して開発した在庫管�
 </td>
 </tr>
 </table>
----
+
 
 <h2>🛠 Technology Stack</h2>
 
@@ -52,7 +52,7 @@ StoreLinkは、Java Servlet・JSP・MariaDBを利用して開発した在庫管�
 <p align="center">
 Java • Servlet • JSP • JDBC • MariaDB • Tomcat 9
 </p>
----
+
 
 # ✨ Features
 
@@ -157,34 +157,36 @@ Java • Servlet • JSP • JDBC • MariaDB • Tomcat 9
 </td>
 </tr>
 </table>
----
+
 
 <h2>🖥 Desktop Version</h2>
 
 <p align="center">
-<img src="images/pcV1.png" width="450">
+<img src="images/pcV1.png"
+     width="800"
+     style="border:2px solid #444;border-radius:10px;padding:5px;">
 </p>
+
+<br>
 
 <p align="center">
-<img src="images/pcV2.png" width="450">
+<img src="images/pcV2.png"
+     width="800"
+     style="border:2px solid #444;border-radius:10px;padding:5px;">
 </p>
 
----
 
 <h2>📱 Mobile Version</h2>
 
 <p align="center">
-<img src="images/mobileV1.png" width="60">
-<img src="images/mobileV2.png" width="60">
-<img src="images/mobileV3.png" width="60">
+<img src="images/mobileV1.png" width="120">
+<img src="images/mobileV2.png" width="120">
+<img src="images/mobileV3.png" width="120">
+<img src="images/mobileV4.png" width="120">
+<img src="images/mobileV5.png" width="120">
+<img src="images/mobileV6.png" width="120">
 </p>
 
-<p align="center">
-<img src="images/mobileV4.png" width="60">
-<img src="images/mobileV5.png" width="60">
-<img src="images/mobileV6.png" width="60">
-</p>
----
 
 ## 🗄 Database
 
@@ -202,7 +204,6 @@ USE storelink;
 SOURCE storelink.sql;
 ```
 
----
 
 ## 👨‍💻 Developer
 
@@ -216,5 +217,5 @@ thura1998.thk@gmail.com
 
 💻 GitHub  
 https://github.com/Thura2021
----
+
 
