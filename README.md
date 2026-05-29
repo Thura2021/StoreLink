@@ -165,11 +165,7 @@ Java • Servlet • JSP • JDBC • MariaDB • Tomcat 9
 <img src="images/pcV1.png"
      width="450"
      style="border:2px solid #444;border-radius:10px;padding:5px;">
-</p>
 
-<br>
-
-<p align="center">
 <img src="images/pcV2.png"
      width="450"
      style="border:2px solid #444;border-radius:10px;padding:5px;">
