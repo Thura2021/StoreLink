@@ -161,57 +161,136 @@ Java • Servlet • JSP • JDBC • MariaDB • Tomcat 9
 
 <h2>🖥 Desktop Version</h2>
 
-<p align="center">
-<img src="images/pcV1.png"
-     width="400"
-     style="border:2px solid #444;border-radius:10px;padding:5px;">
+<table>
+<tr>
+<td align="center">
+<img src="images/pcV1.png" width="450"><br>
+<b>Dashboard</b>
+</td>
 
-<img src="images/pcV2.png"
-     width="400"
-     style="border:2px solid #444;border-radius:10px;padding:5px;">
-</p>
+<td align="center">
+<img src="images/pcV2.png" width="450"><br>
+<b>Product Management</b>
+</td>
+</tr>
+</table>
 
 
 <h2>📱 Mobile Version</h2>
 
-<p align="center">
-<img src="images/mobileV1.png" width="120">
-<img src="images/mobileV2.png" width="120">
-<img src="images/mobileV3.png" width="120">
-<img src="images/mobileV4.png" width="120">
-<img src="images/mobileV5.png" width="120">
-<img src="images/mobileV6.png" width="120">
-</p>
+<table>
+<tr>
+<td align="center">
+<img src="images/mobileV1.png" width="140"><br>
+<b>Dashboard</b>
+</td>
+
+<td align="center">
+<img src="images/mobileV2.png" width="140"><br>
+<b>Product List</b>
+</td>
+
+<td align="center">
+<img src="images/mobileV3.png" width="140"><br>
+<b>Product Detail</b>
+</td>
+
+<td align="center">
+<img src="images/mobileV4.png" width="140"><br>
+<b>Table Detail</b>
+</td>
+
+<td align="center">
+<img src="images/mobileV5.png" width="140"><br>
+<b>Create Menu</b>
+</td>
+
+<td align="center">
+<img src="images/mobileV6.png" width="140"><br>
+<b>Product Detail Panel</b>
+</td>
+</tr>
+</table>
 
 
-## 🗄 Database
+<h2>🗄 Database & 👨‍💻 Developer</h2>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🗄 Database</h3>
 
 Database file included:
 
-```sql
+<pre>
 storelink.sql
-```
+</pre>
 
 Import:
 
-```sql
+<pre>
 CREATE DATABASE storelink;
 USE storelink;
 SOURCE storelink.sql;
-```
+</pre>
 
+</td>
 
-## 👨‍💻 Developer
+<td width="50%" valign="top">
 
-**Thura Hlaing Ko**
+<h3>👨‍💻 Developer</h3>
+
+<b>Thura Hlaing Ko</b>
 
 HAL Osaka  
 Department of Information Technology
 
-📧 Email  
-thura1998.thk@gmail.com
+📧 thura1998.thk@gmail.com
 
-💻 GitHub  
+🐙 GitHub  
 https://github.com/Thura2021
 
+</td>
 
+</tr>
+</table>
+
+<h2>🚀 Future Improvements</h2>
+
+<table>
+<tr>
+
+<td width="33%" valign="top">
+
+### 🤖 AI Recognition
+
+- Face Recognition
+- OCR Product Scan
+- Smart Search
+
+</td>
+
+<td width="33%" valign="top">
+
+### 📱 Mobile App
+
+- Android Version
+- iOS Version
+- Push Notification
+
+</td>
+
+<td width="33%" valign="top">
+
+### ☁ Cloud Support
+
+- AWS Deployment
+- Online Backup
+- Multi Store System
+
+</td>
+
+</tr>
+</table>
