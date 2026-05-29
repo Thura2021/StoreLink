@@ -54,49 +54,109 @@ StoreLinkは、Java Servlet・JSP・MariaDBを利用して開発した在庫管�
 
 ---
 
-## ✨ Features
+# ✨ Features
 
-### Dashboard
-- Product count
-- Category count
-- Group count
-- Table count
-- Low stock alerts
-- Recently added products
+<table>
+<tr>
+<td width="33%" valign="top">
 
-### Product Management
-- Add products
-- Edit products
-- Delete products
-- Product detail panel
-- Product image support
+## 📊 Dashboard
 
-### Category Management
-- Create categories
-- Edit categories
-- Delete categories
+- Product Count
+- Category Count
+- Group Count
+- Table Count
+- Low Stock Alert
+- Recent Products
 
-### Group Management
-- Create groups
-- Edit groups
-- Delete groups
+</td>
 
-### Table Management
-- Shelf/Table management
-- View products by shelf
+<td width="33%" valign="top">
 
-### CSV Import
-- Import sales CSV
-- Automatic stock reduction
+## 📦 Product Management
 
-### Excel Export
-- Export product list to Excel
+- Add Product
+- Edit Product
+- Delete Product
+- Product Detail Panel
+- Product Images
 
-### User Management
-- Create users
-- Permission settings
-- Role-based access control
+</td>
 
+<td width="33%" valign="top">
+
+## 📂 Category Management
+
+- Create Category
+- Edit Category
+- Delete Category
+
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+
+## 👥 Group Management
+
+- Create Group
+- Edit Group
+- Delete Group
+
+</td>
+
+<td valign="top">
+
+## 🗂 Table Management
+
+- Create Table
+- Edit Table
+- Delete Table
+- Product Location
+
+</td>
+
+<td valign="top">
+
+## 👤 User Management
+
+- User Registration
+- Permission Settings
+- Role Management
+
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+
+## 📈 CSV Import
+
+- Sales CSV Import
+- Auto Stock Reduction
+
+</td>
+
+<td valign="top">
+
+## 📤 Excel Export
+
+- Export Product List
+- Download Reports
+
+</td>
+
+<td valign="top">
+
+## 🔒 Security
+
+- Login Authentication
+- Access Control
+- Permission Check
+
+</td>
+</tr>
+</table>
 ---
 
 # 🖥 Desktop Version
@@ -159,21 +219,5 @@ GitHub:
 https://github.com/Thura2021
 
 ---
-
-## 🇯🇵 日本語
-
-StoreLinkはJava Servlet・JSP・MariaDBを利用して開発した在庫管理Webシステムです。
-
-主な機能：
-
-- 商品管理
-- グループ管理
-- カテゴリ管理
-- テーブル管理
-- CSV販売データ取込
-- Excel出力
-- 在庫不足アラート
-- 権限管理
-- ダッシュボード表示
 
 コンビニでのアルバイト経験から、商品の場所や在庫状況を簡単に確認できるシステムとして開発しました。
