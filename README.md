@@ -1,6 +1,8 @@
 # 🏪 StoreLink
 
-Inventory Management Web System developed using Java Servlet, JSP and MariaDB.
+<p align="center">
+<img src="images/DskPn.png" width="1000">
+</p>
 
 ---
 
@@ -73,8 +75,15 @@ The system allows users to manage products, categories, groups and shelves, trac
 # 🖥 Desktop Version
 
 <p align="center">
-<img src="images/DskPn.png" width="1000">
+<img src="images/pcV1.png" width="900">
 </p>
+
+<br>
+
+<p align="center">
+<img src="images/pcV2.png" width="900">
+</p>
+
 
 ---
 
