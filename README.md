@@ -212,6 +212,45 @@ Java • Servlet • JSP • JDBC • MariaDB • Tomcat 9
 </tr>
 </table>
 
+<h2>🚀 Future Improvements</h2>
+
+<table>
+<tr>
+
+<td width="33%" valign="top">
+
+### 🤖 AI Recognition
+
+- Face Recognition
+- OCR Product Scan
+- Smart Search
+
+</td>
+
+<td width="33%" valign="top">
+
+### 📱 Mobile App
+
+- Android Version
+- iOS Version
+- Push Notification
+
+</td>
+
+<td width="33%" valign="top">
+
+### ☁ Cloud Support
+
+- AWS Deployment
+- Online Backup
+- Multi Store System
+
+</td>
+
+</tr>
+</table>
+
+
 
 <h2>🗄 Database & 👨‍💻 Developer</h2>
 
@@ -257,40 +296,3 @@ https://github.com/Thura2021
 </tr>
 </table>
 
-<h2>🚀 Future Improvements</h2>
-
-<table>
-<tr>
-
-<td width="33%" valign="top">
-
-### 🤖 AI Recognition
-
-- Face Recognition
-- OCR Product Scan
-- Smart Search
-
-</td>
-
-<td width="33%" valign="top">
-
-### 📱 Mobile App
-
-- Android Version
-- iOS Version
-- Push Notification
-
-</td>
-
-<td width="33%" valign="top">
-
-### ☁ Cloud Support
-
-- AWS Deployment
-- Online Backup
-- Multi Store System
-
-</td>
-
-</tr>
-</table>
