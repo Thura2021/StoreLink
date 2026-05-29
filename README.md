@@ -41,17 +41,15 @@ StoreLinkは、Java Servlet・JSP・MariaDBを利用して開発した在庫管�
 </table>
 ---
 
-## 🛠 Technology Stack
+<h2>🛠 Technology Stack</h2>
 
-- Java
-- Servlet / JSP
-- JDBC
-- MariaDB / MySQL
-- HTML5
-- CSS3
-- JavaScript
-- Apache Tomcat 9
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,html,css,js,mysql,git,github" />
+</p>
 
+<p align="center">
+Java • Servlet • JSP • JDBC • MariaDB • Tomcat 9
+</p>
 ---
 
 # ✨ Features
@@ -159,35 +157,31 @@ StoreLinkは、Java Servlet・JSP・MariaDBを利用して開発した在庫管�
 </table>
 ---
 
-# 🖥 Desktop Version
+<h2>🖥 Desktop Version</h2>
 
 <p align="center">
-<img src="images/pcV1.png" width="900">
+<img src="images/pcV1.png" width="700">
 </p>
-
-<br>
 
 <p align="center">
-<img src="images/pcV2.png" width="900">
+<img src="images/pcV2.png" width="700">
 </p>
-
 
 ---
 
-# 📱 Mobile Version
+<h2>📱 Mobile Version</h2>
 
 <p align="center">
-<img src="images/mobileV1.png" width="220">
-<img src="images/mobileV2.png" width="220">
-<img src="images/mobileV3.png" width="220">
+<img src="images/mobileV1.png" width="160">
+<img src="images/mobileV2.png" width="160">
+<img src="images/mobileV3.png" width="160">
 </p>
 
 <p align="center">
-<img src="images/mobileV4.png" width="220">
-<img src="images/mobileV5.png" width="220">
-<img src="images/mobileV6.png" width="220">
+<img src="images/mobileV4.png" width="160">
+<img src="images/mobileV5.png" width="160">
+<img src="images/mobileV6.png" width="160">
 </p>
-
 ---
 
 ## 🗄 Database
@@ -215,9 +209,11 @@ SOURCE storelink.sql;
 HAL Osaka  
 Department of Information Technology
 
-GitHub:
-https://github.com/Thura2021
+📧 Email  
+thura1998.thk@gmail.com
 
+💻 GitHub  
+https://github.com/Thura2021
 ---
 
 コンビニでのアルバイト経験から、商品の場所や在庫状況を簡単に確認できるシステムとして開発しました。
