@@ -163,11 +163,11 @@ Java • Servlet • JSP • JDBC • MariaDB • Tomcat 9
 
 <p align="center">
 <img src="images/pcV1.png"
-     width="450"
+     width="400"
      style="border:2px solid #444;border-radius:10px;padding:5px;">
 
 <img src="images/pcV2.png"
-     width="450"
+     width="400"
      style="border:2px solid #444;border-radius:10px;padding:5px;">
 </p>
 
