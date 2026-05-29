@@ -1,0 +1,62 @@
+@charset "UTF-8";
+
+body{
+  background:#f2f2f2;
+  font-family: "Segoe UI", sans-serif;
+}
+
+/* ===== card ===== */
+.card{
+  width:420px;
+  margin:40px auto;
+  background:#fff;
+  border-radius:12px;
+  box-shadow:0 10px 25px rgba(0,0,0,.08);
+  padding:24px;
+}
+
+.card h2{
+  margin:0 0 20px;
+  font-size:18px;
+  border-bottom:1px solid #eee;
+  padding-bottom:10px;
+}
+
+/* ===== rows ===== */
+.row{
+  display:flex;
+  justify-content:space-between;
+  padding:8px 0;
+  border-bottom:1px dashed #eee;
+}
+
+.label{
+  color:#777;
+}
+
+.value{
+  font-weight:600;
+}
+
+.qty-zero{
+  color:red;
+  font-weight:bold;
+}
+
+/* ===== buttons ===== */
+.actions{
+  margin-top:20px;
+  display:flex;
+  gap:10px;
+}
+
+button{
+  padding:8px 14px;
+  border-radius:6px;
+  border:none;
+  cursor:pointer;
+}
+
+.edit{ background:#4caf50; color:#fff; }
+.delete{ background:#f44336; color:#fff; }
+.back{ background:#777; color:#fff; }
