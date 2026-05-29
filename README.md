@@ -1,101 +1,143 @@
-# StoreLink
+# 🏪 StoreLink
 
-## English
-
-### Overview
-
-StoreLink is an Inventory Management Web System developed to solve stock management problems experienced in convenience store operations.
-
-The system allows users to manage items, categories, groups, tables, stock quantities, and inventory history through a web-based interface.
-
-### Features
-
-* Dashboard
-* Item Management
-* Group Management
-* Category Management
-* Table Management
-* User Management
-* Permission Control
-* CSV Sales Import
-* Stock History Tracking
-* Low Stock Alert
-* Responsive User Interface
-
-### Technology Stack
-
-* Java
-* Servlet
-* JSP
-* JDBC
-* MariaDB / MySQL
-* HTML
-* CSS
-* JavaScript
-
-### Purpose
-
-While working at a convenience store, I experienced difficulties in managing inventory and locating products efficiently.
-
-To solve these problems, I designed and developed StoreLink as a practical inventory management system.
-
-### Developer
-
-THURA HLAING KO
-
-HAL Osaka College of Technology & Design
-
-Information Technology Department
-
-
+Inventory Management Web System developed using Java Servlet, JSP and MariaDB.
 
 ---
 
-# StoreLink
+## 📖 Overview
 
-## 日本語
+StoreLink is a web-based inventory management system developed to solve stock management problems in convenience stores and small businesses.
 
-### 概要
+The system allows users to manage products, categories, groups and shelves, track stock quantities, import sales data from CSV files, and monitor low-stock items through a dashboard.
 
-StoreLinkは、コンビニエンスストアでの在庫管理の課題を解決するために開発した在庫管理Webシステムです。
+---
 
-商品、カテゴリー、グループ、テーブル、在庫数、履歴情報をWeb上で管理することができます。
+## 🛠 Technology Stack
 
-### 主な機能
+- Java
+- Servlet / JSP
+- JDBC
+- MariaDB / MySQL
+- HTML5
+- CSS3
+- JavaScript
+- Apache Tomcat 9
 
-* ダッシュボード
-* 商品管理
-* グループ管理
-* カテゴリー管理
-* テーブル管理
-* ユーザー管理
-* 権限管理
-* CSV売上データ取込
-* 在庫履歴管理
-* 在庫不足アラート
-* レスポンシブ対応
+---
 
-### 使用技術
+## ✨ Features
 
-* Java
-* Servlet
-* JSP
-* JDBC
-* MariaDB / MySQL
-* HTML
-* CSS
-* JavaScript
+### Dashboard
+- Product count
+- Category count
+- Group count
+- Table count
+- Low stock alerts
+- Recently added products
 
-### 開発目的
+### Product Management
+- Add products
+- Edit products
+- Delete products
+- Product detail panel
+- Product image support
 
-私はコンビニエンスストアでアルバイトをしている際に、商品の場所や在庫状況の管理に不便さを感じました。
+### Category Management
+- Create categories
+- Edit categories
+- Delete categories
 
-その経験をもとに、より効率的に在庫管理ができるシステムとしてStoreLinkを開発しました。
+### Group Management
+- Create groups
+- Edit groups
+- Delete groups
 
-### 開発者
+### Table Management
+- Shelf/Table management
+- View products by shelf
 
-THURA HLAING KO
+### CSV Import
+- Import sales CSV
+- Automatic stock reduction
 
-HAL大阪
+### Excel Export
+- Export product list to Excel
 
-情報処理学科
+### User Management
+- Create users
+- Permission settings
+- Role-based access control
+
+---
+
+# 🖥 Desktop Version
+
+<p align="center">
+<img src="images/DskPn.png" width="1000">
+</p>
+
+---
+
+# 📱 Mobile Version
+
+<p align="center">
+<img src="images/mobileV1.png" width="220">
+<img src="images/mobileV2.png" width="220">
+<img src="images/mobileV3.png" width="220">
+</p>
+
+<p align="center">
+<img src="images/mobileV4.png" width="220">
+<img src="images/mobileV5.png" width="220">
+<img src="images/mobileV6.png" width="220">
+</p>
+
+---
+
+## 🗄 Database
+
+Database file included:
+
+```sql
+storelink.sql
+```
+
+Import:
+
+```sql
+CREATE DATABASE storelink;
+USE storelink;
+SOURCE storelink.sql;
+```
+
+---
+
+## 👨‍💻 Developer
+
+**Thura Hlaing Ko**
+
+HAL Osaka  
+Department of Information Technology
+
+GitHub:
+https://github.com/Thura2021
+
+---
+
+## 🇯🇵 日本語
+
+StoreLinkはJava Servlet・JSP・MariaDBを利用して開発した在庫管理Webシステムです。
+
+主な機能：
+
+- 商品管理
+- グループ管理
+- カテゴリ管理
+- テーブル管理
+- CSV販売データ取込
+- Excel出力
+- 在庫不足アラート
+- 権限管理
+- ダッシュボード表示
+
+コンビニでのアルバイト経験から、商品の場所や在庫状況を簡単に確認できるシステムとして開発しました。
