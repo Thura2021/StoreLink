@@ -8,10 +8,37 @@
 
 ## 📖 Overview
 
-StoreLink is a web-based inventory management system developed to solve stock management problems in convenience stores and small businesses.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-The system allows users to manage products, categories, groups and shelves, track stock quantities, import sales data from CSV files, and monitor low-stock items through a dashboard.
+### 🇺🇸 English
 
+StoreLink is a web-based inventory management system developed using Java Servlet, JSP, and MariaDB.
+
+The system enables users to manage products, categories, groups, shelves, and inventory history efficiently.
+
+It also supports CSV sales import, low-stock alerts, and responsive design for both desktop and mobile devices.
+
+This project was inspired by inventory management challenges experienced while working at a convenience store.
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🇯🇵 日本語
+
+StoreLinkは、Java Servlet・JSP・MariaDBを利用して開発した在庫管理Webシステムです。
+
+商品、カテゴリー、グループ、棚情報、在庫履歴を効率的に管理できます。
+
+また、CSV売上データ取込、在庫不足アラート、デスクトップ・スマートフォン対応機能を備えています。
+
+コンビニエンスストアでのアルバイト経験の中で感じた在庫管理の課題を解決するために開発しました。
+
+</td>
+</tr>
+</table>
 ---
 
 ## 🛠 Technology Stack
