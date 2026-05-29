@@ -4,6 +4,8 @@
 <img src="images/DskPn.png" width="1000">
 </p>
 
+コンビニでのアルバイト経験から、商品の場所や在庫状況を簡単に確認できるシステムとして開発しました。
+
 ---
 
 ## 📖 Overview
@@ -160,11 +162,11 @@ Java • Servlet • JSP • JDBC • MariaDB • Tomcat 9
 <h2>🖥 Desktop Version</h2>
 
 <p align="center">
-<img src="images/pcV1.png" width="700">
+<img src="images/pcV1.png" width="450">
 </p>
 
 <p align="center">
-<img src="images/pcV2.png" width="700">
+<img src="images/pcV2.png" width="450">
 </p>
 
 ---
@@ -172,15 +174,15 @@ Java • Servlet • JSP • JDBC • MariaDB • Tomcat 9
 <h2>📱 Mobile Version</h2>
 
 <p align="center">
-<img src="images/mobileV1.png" width="160">
-<img src="images/mobileV2.png" width="160">
-<img src="images/mobileV3.png" width="160">
+<img src="images/mobileV1.png" width="60">
+<img src="images/mobileV2.png" width="60">
+<img src="images/mobileV3.png" width="60">
 </p>
 
 <p align="center">
-<img src="images/mobileV4.png" width="160">
-<img src="images/mobileV5.png" width="160">
-<img src="images/mobileV6.png" width="160">
+<img src="images/mobileV4.png" width="60">
+<img src="images/mobileV5.png" width="60">
+<img src="images/mobileV6.png" width="60">
 </p>
 ---
 
@@ -216,4 +218,3 @@ thura1998.thk@gmail.com
 https://github.com/Thura2021
 ---
 
-コンビニでのアルバイト経験から、商品の場所や在庫状況を簡単に確認できるシステムとして開発しました。
